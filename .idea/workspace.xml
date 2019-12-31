@@ -21,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VZtGdncnxGYYnagpeW4AwnsD1p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/static/javascript" />
@@ -86,7 +90,7 @@
       <updated>1577472350379</updated>
       <workItem from="1577472354393" duration="1918000" />
       <workItem from="1577483988137" duration="826000" />
-      <workItem from="1577484985237" duration="28394000" />
+      <workItem from="1577484985237" duration="28551000" />
     </task>
     <servers />
   </component>
